@@ -79,6 +79,31 @@ Revealed that while higher budgets can contribute to success, vote count and gen
 - Data storytelling and business insight generation  
 
 ---
+## 📱 iPhone Data Analysis Project
+
+
+Description:
+A comprehensive data analysis project focusing on iPhone models. The analysis uncovers pricing trends, performance specifications, and feature correlations to gain insights into consumer preferences.
+
+ ## Key Highlights:
+
+Cleaned and preprocessed raw iPhone dataset
+
+Performed exploratory data analysis (EDA) with visualizations
+
+Analyzed price patterns and specification relationships
+
+Extracted actionable insights for marketing and product positioning
+
+## Tech Stack:
+
+Python, Jupyter Notebook
+
+Pandas, NumPy, Matplotlib, Seaborn
+
+## Results:
+Identified key patterns between iPhone pricing, storage capacity, and model features, enabling informed decision-making through visual storytelling.
+
 
 ## 💼 About Me
 
